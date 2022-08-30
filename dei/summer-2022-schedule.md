@@ -11,9 +11,10 @@ layout: page
 
 **Summary** : {{ entry.summary }}
 
+{% if entry.resources.size > 0 %}
 **Resources**:
-
 {% for resource in entry.resources %}
   * [{{ resource.text }}]({{ resource.url }})
 {% endfor %}
+{% endif %}
 {% endfor %}
