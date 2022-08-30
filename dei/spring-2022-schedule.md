@@ -14,7 +14,7 @@ layout: page
 {% if entry.resources.size > 0 %}
 **Resources**:
 {% for resource in entry.resources %}
-* [{{ resource.text }}]({{ resource.url }})
+  * [{{ resource.text }}]({{ resource.url }})
 {% endfor %}
 {% endif %}
 {% endfor %}
