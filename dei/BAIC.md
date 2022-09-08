@@ -14,6 +14,9 @@ Diversity, Equity and Inclusion are fundamental to the success of the University
 ### {{ entry.abstract }}
 
 **Date** : {{ entry.date }}
+{% if entry.time %}
+**Time** : {{ entry.time }}
+{% endif %}
 
 **Summary** : {{ entry.summary }}
 
