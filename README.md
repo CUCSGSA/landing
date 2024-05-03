@@ -19,7 +19,7 @@ Needs: Ruby
 
 ## Local 
 
-1. Clone repository to your computer with `git clone https://github.com/csgsa/events-landing`
+1. Clone repository to your computer with `git clone https://github.com/CUCSGSA/landing.git`
 2. `cd` into your repository
 3. `gem install jekyll`
 4. `jekyll serve --watch`
@@ -31,11 +31,6 @@ Needs: Ruby
 
 Deployment is done automatically by [GitHub pages](https://pages.github.com/). You don't need to do anything else than pushing to master.
 
-# Use for your organization
-
-1. Fork this repository
-2. Activate Github pages for your new repo
-3. Personalize
 
 # Personalization
 
@@ -43,6 +38,9 @@ Deployment is done automatically by [GitHub pages](https://pages.github.com/). Y
 
 1. Go to [_data/officers.yml](_data/officers.yml)
 2. Edit the info for the appropriate position
+3. If you're adding a new officer position, add a new section in the [_data/officers.yml](_data/officers.yml) and front-end content in the [officers.md](officers.md)
+4. Add the officers images in the [assets/img/officers](assets/img/officers) folder andd the same in the [_data/officers.yml](_data/officers.yml) page
+
 
 ## Add photo albums to carousel
 
