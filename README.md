@@ -41,6 +41,11 @@ Deployment is done automatically by [GitHub pages](https://pages.github.com/). Y
 3. If you're adding a new officer position, add a new section in the [_data/officers.yml](_data/officers.yml) and front-end content in the [officers.md](officers.md)
 4. Add the officers images in the [assets/img/officers](assets/img/officers) folder andd the same in the [_data/officers.yml](_data/officers.yml) page
 
+## Update Menu
+
+1. You can edit the menu in the homepage
+2. Add or delete a section that should appear on the menu in the [_data/menu.yml](_data/menu.yml) page. Use the `visible` flag to temporarily turn on or off any menu option.
+
 
 ## Add photo albums to carousel
 
