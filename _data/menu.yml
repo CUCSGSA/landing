@@ -25,7 +25,7 @@
   - name: Officers
     url: GPDC_Officers
   - name: About
-    url: GPDC_About
+    url: GPDC_about
   - name: Events
     url: GPDC_Events
 
