@@ -3,21 +3,35 @@
 - name: Home
   url: /
 
-- name: About
+- name: CS-GSA
   subcategories:
+  - name: About
+    url: /GSA_about
   - name: Officers
     url: /officers
   - name: Bylaws
     url: /bylaws
+  - name: Events
+    url: GSA_Events
   - name: Projects
     url: /projects
 
 - name: Archive
   url: /archive
+  visible: hide
+
+- name: CS-GPDC
+  subcategories:
+  - name: Officers
+    url: GPDC_Officers
+  - name: About
+    url: GPDC_About
+  - name: Events
+    url: GPDC_Events
 
 - name: The Neural Network
-  url: /neural-network
-  #visible: hide 
+  url: /neural-networkl
+  visible: hide 
 
 - name: Resources and FAQ
   subcategories:
@@ -29,8 +43,9 @@
     url: dei
   - name: Reporting and Support
     url: concerns
-  - name: Quality of Life
-    url: quality_of_life
+  # - name: Quality of Life
+  #   url: quality_of_life
+  #   visible: hide 
   - name: Moving to Boulder
     url: moving
   - name: Grad Student Jobs
@@ -39,11 +54,10 @@
     url: funding
   - name: Travel Funding
     url: 2018/09/12/Travel-Grants.html
-  - name: Graduate Student Petitions
-    url: grad-petitions
-  - name: Join us on Slack!
-    url: join-on-slack
+  # - name: Graduate Student Petitions
+  #   url: grad-petitions
+  # - name: Join us on Slack!
+  #   url: join-on-slack
   - name: Application Feedback Program
     url: app-feedback
-  - name: Professional Development
-    url: professional-development
+   

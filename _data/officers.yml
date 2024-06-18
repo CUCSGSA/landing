@@ -1,11 +1,11 @@
 # This populates the Officers page
 
 chair:
-    name: Erika Hunhoff
-    contact: Erika.Hunhoff@
-    photo: assets/img/officers/erika_hunhoff.jpg
-    pronouns: She/Her/Hers
-    bio: Erika is a 5th year Ph.D. candidate in the Systems and Networking Lab. Erika is passionate about creating computing environments that are friendly to newcomers. In her spare time, she loves spending time with her spouse, two dogs, and cat; she also enjoys reading, running, and drawing.
+    name: Sriranga Ramaswamy
+    contact: srianga.kalkunteramaswamy@
+    photo: assets/img/officers/ranga.jpg
+    pronouns: He/Him/His
+    bio: Sriranga is a PhD student intrested in Cybersecurity. He is a man of many hobbies, woodworking, 3D-Printing, Origami, and many more. He can often be spotted photographing the flatirons or cute little squirrels on campus.
 
 vice_chair:
     name: Kevin Lane
@@ -21,39 +21,53 @@ treasurer:
     pronouns: He/Him/His
     bio: Nour is an MS student interested in machine learning and mathematical approaches for modeling infectious disease dynamics. He enjoys skiing, rock climbing, cooking, and reading in his spare time.
 
-anti_racism_inclusion_chair:
-    name: Shipra Singh
-    contact: Shipra.Singh@
-    photo: assets/img/officers/shipra_singh.jpg
-    pronouns: She/Her/Hers
-    bio: Shipra Singh is a first year MS-CSEN student interested in pursuing research in Quantum Computing. She loves Greek and Roman classics, poetry, and music. She can often be found stargazing on a cloudless night, wondering about the existence of the universe.
+gpdc_chair:
+    name: Anirudh Maiya
+    contact: anirudh.maiya@
+    photo: assets/img/officers/anirudh_maiya.png
+    pronouns: He/Him/His
+    bio: Anirudh is a second year MS-CSEN student. His research interests lie at the intersection of time series principles and optimization in machine learning. He also enjoys tackling problems involving multi-spectral data. In his free time, he enjoys road biking and hiking around Boulder.
+
+gpdc_vice_chair:
+    name: Ashwin Umadi
+    contact: ashwin.umadi@
+    photo: assets/img/officers/Ashwin_umadi.jpg
+    pronouns: He/Him/His
+    bio: Ashwin Umadi is a second-year MS-CSEN student with a keen interest in Natural Language Processing, Computer Vision, and tackling real-world challenges through the integration of these fields. In his free time, he enjoys hiking, running, and playing badminton and cricket.
+
+gpdc_treasurer:
+    name: Akshay Bakshi
+    contact: akshay.bakshi@
+    photo: /assets/img/officers/akshay_bakshi.jpg
+    pronouns: He/Him/His
+    bio: Akshay is an MS student interested in deep learning and computer vision. He is also a Software Engineer Intern at Dassault Systemes. In his free time, Akshay enjoys playing tennis and doing High Intensity workouts.
 
 grad_comm:
-    - name: Sourav Chakraborty
-      contact: Sourav.Chakraborty@
-      photo: assets/img/officers/sourav_chakraborty.jpg
-      pronouns: He/Him/His
-      bio: Sourav Chakraborty is a second year PhD student in computer science working in the field of reinforcement learning. When not thinking about work, he treats himself to the world of films, books and music.
+    - name: Bashayer Alharbi
+      contact: bashayer.alharbi@
+      photo: assets/img/officers/anon.jpg
+      pronouns: She/Her/Hers
+      bio: to be done
 
-    - name: Pawin Taechoyotin
-      contact: Pawin.Taechoyotin@
+    - name: Aaptha Boggaram
+      contact:  Aaptha.Boggaram@
       pronouns: He/Him/His
-      photo: assets/img/officers/pawin.jpg
-      bio:  Pawin Taechoyotin is a second year MS-CSEN student in the research track. His interests include High performance computing, Computer Vision and NLP. His currently doing research in Representation Learning. His hobbies are Coding and reading technology articles.
+      photo: assets/img/officers/anon.jpg
+      bio:  to be done
 
 exec_comm:
-    name: Julia Romero
-    contact: Julia.Romero@
+    name: Ananya Ganesh
+    contact: Ananya.ganesh@
     pronouns: She/Her/Hers
-    photo: assets/img/officers/julia_romero.jpg
-    bio: Julia is a 4th year Ph.D. student in Computer Science with a background in Biomedical Engineering. Her research focus is developing sensing, signal processing, and machine and deep learning algorithms for sensor data collected by mobile/wearable/ubiquitous computing devices, including multi-sensor and multi-modal systems. Julia loves coding, music, skiing, and running, and she is especially passionate about racing ultramarathons in the mountains.
+    photo: assets/img/officers/anon.jpg
+    bio: to be done
 
 deia:
-    - name: Shipra Singh
-      contact: Shipra.Singh@
-      photo: assets/img/officers/shipra_singh.jpg
-      pronouns: She/Her/Hers
-      bio: Shipra Singh is a first year MS-CSEN student interested in pursuing research in Quantum Computing. She loves Greek and Roman classics, poetry, and music. She can often be found stargazing on a cloudless night, wondering about the existence of the universe.
+    - name: Karthik Sairam
+      contact: Karthik.sairam@
+      photo: assets/img/officers/anon.jpg
+      pronouns: He/Him/His
+      bio: To be done
     
     - name: Josh Myers-Dean
       contact: Josh.Myers-dean@
@@ -85,6 +99,8 @@ webguru:
 alumni:
     - title: Chair
       people:
+          - name: Erika Hunhoff
+            years: Spring 2024
           - name: Corey Lynn Murphey
             years: Fall 2023
           - name: Jay Luther
@@ -125,6 +141,8 @@ alumni:
 
     - title: CSGSA Anti-racism and Inclusion Chair
       people:
+          - name: Shipra Singh
+            years: Spring 2024
           - name: Prasanth Prahladan
             years: Fall 2023
           - name: Evariste Some
@@ -134,6 +152,10 @@ alumni:
 
     - title: Graduate Committee
       people:
+          - name: Sourav Chakraborty
+            years: Fall 2023 - Spring 2024
+          - name: Pawin Taechoyotin
+            years: Fall 2023 - Spring 2024
           - name: Spencer Wilson
             years: Fall 2022 - Spring 2023
           - name: Corey Lynn Murphey
@@ -167,6 +189,8 @@ alumni:
 
     - title: Executive Committee
       people:
+          - name: Julia Romero
+            years: Spring 2024
           - name: Hemanth Rao
             years: Fall 2023
           - name: Rohan Das
@@ -181,6 +205,10 @@ alumni:
 
     - title: GPSG Student Representative
       people:
+          - name: Chiranthan Sridhar
+            years: Fall 2023 - Spring 2024
+          - name: Arnib Alam
+            years: Spring 2024 
           - name: Paresha Farastu
             years: Spring 2023
           - name: Nikhil Hulle
@@ -195,6 +223,8 @@ alumni:
 
     - title: Web Guru
       people:
+          - name: Chiranthan Sridhar
+            years: Fall 2023 - Spring 2024 
           - name: Abhishek Purushothama
             years: Fall 2021 - Fall 2022
           - name: Gerard Casas

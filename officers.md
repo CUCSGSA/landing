@@ -103,39 +103,6 @@ The treasurer's responsibilities are to:
 </div>
 </div>
 
-### CSGSA Anti-racism and Inclusion Chair
-
-{::options parse_block_html="true" /}
-<div class="container">
-<div class="row">
-<div class="col-sm-4">
-<div class="card">
-{::options parse_block_html="true" /}
-{%assign person = site.data.officers.anti_racism_inclusion_chair%}
-{%if person.photo%}
-![{{person.name}}]({{person.photo}}){:height="300px"}
-{%endif%}
-{{person.name}}
-
-Pronouns: {{person.pronouns}}
-{%if person.bio%}
-Bio: {{person.bio}}
-{%endif%}
-</div>
-</div>
-
-<div class="col-sm-8">
-The Anti-racism and Inclusion Chairs's responsibilities are to:
-
-1. Facilitate student-led discussions on making CU Boulder CS more inclusive and proactively anti-racist (in continuity)
-2. Hold CSGSA accountable for actions we plan to take on community inclusivity
-3. Serve as a peer reporter for microaggressions by monitoring the student reporting form
-4. Work with the Associate Chair of Inclusive Excellence and our undergraduate leadership to ensure CSGSA efforts are in conjunction with the department efforts on antiracism
-5. These tasks may be delegated to other members by the responsible executive.
-</div>
-</div>
-</div>
-
 ## Department Graduate Committee Student Representatives
 
 The Graduate Committee is charged with a broad range of graduate student affairs, both for Masters and PhD students. This committee reviews all applications for admission to the Masters and Doctoral programs in Computer Science. All problems regarding any proposed changes to both the Master’s program and the Ph.D. program are handled by this Graduate Committee. It is also responsible for defining course content, considering new course offerings, and other issues for the graduate degree programs. There are three student representatives on the Graduate Committee, two PhD students and one Masters student.
@@ -148,7 +115,7 @@ The Graduate Committee is charged with a broad range of graduate student affairs
 <div class="col-sm-6">
 <div class="card">
 {%if person.photo%}
-![{{person.name}}]({{person.photo}}){:height="300px"}{:width="260px"}
+![{{person.name}}]({{person.photo}}){:height="300px"}
 {%endif%}
 {{person.name}}
 
@@ -169,7 +136,7 @@ Bio: {{person.bio}}
 {::options parse_block_html="true" /}
 {%assign person = site.data.officers.exec_comm%}
 {%if person.photo%}
-![{{person.name}}]({{person.photo}}){:height="300px"}{:width="300px"}
+![{{person.name}}]({{person.photo}}){:height="300px"}
 {%endif%}
 {{person.name}}
 
@@ -193,7 +160,7 @@ The student member of this committee is considered to be the senior student repr
 <div class="col-sm-6">
 <div class="card">
 {%if person.photo%}
-![{{person.name}}]({{person.photo}}){:height="300px"}{:width="300px"}
+![{{person.name}}]({{person.photo}}){:height="300px"}
 {%endif%}
 {{person.name}}
 
@@ -214,7 +181,7 @@ Bio: {{person.bio}}
 <div class="col-sm-6">
 <div class="card">
 {%if person.photo%}
-![{{person.name}}]({{person.photo}}){:height="300px"}{:width="300px"}
+![{{person.name}}]({{person.photo}}){:height="300px"}
 {%endif%}
 {{person.name}}
 
@@ -236,7 +203,7 @@ Bio: {{person.bio}}
 {::options parse_block_html="true" /}
 {%assign person = site.data.officers.webguru%}
 {%if person.photo%}
-![{{person.name}}]({{person.photo}}){:height="300px"}{:width="300px"}
+![{{person.name}}]({{person.photo}}){:height="300px"}
 {%endif%}
 {{person.name}}
 {%if person.pronouns%}

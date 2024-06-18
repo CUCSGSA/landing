@@ -70,5 +70,79 @@
       gtag('config', '{{site.ga}}');
     </script>
 {% endunless %}
+
+<!-- Contact Form Widget with Improved Styling -->
+<div id="contact-widget" style="display: none; position: fixed; bottom: 20px; right: 20px; width: 30%; height: auto; min-height: 300px; background: white; border: 1px solid #ccc; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 10px; z-index: 1001;">
+    <form id="contact-form" action="https://formspree.io/f/xrgnngda" method="POST">
+        <div style="margin-bottom: 10px;">
+            <label for="name" style="display: block; margin-bottom: 5px;">Name:</label>
+            <input type="text" id="name" name="name" required style="width: 100%; padding: 8px;">
+        </div>
+        <div style="margin-bottom: 10px;">
+            <label for="email" style="display: block; margin-bottom: 5px;">Email:</label>
+            <input type="email" id="email" name="email" required style="width: 100%; padding: 8px;">
+        </div>
+        <div style="margin-bottom: 10px;">
+            <label for="message" style="display: block; margin-bottom: 5px;">Message:</label>
+            <textarea id="message" name="message" required style="width: 100%; padding: 8px; height: 100px;"></textarea>
+        </div>
+        <button type="submit" style="padding: 10px 20px; margin-right: 10px;">Send</button>
+        <button type="button" onclick="toggleWidget()" style="padding: 10px 20px;">Close</button>
+    </form>
+</div>
+<div id="overlay" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 1000;"></div>
+<div id="message-bubble" style="display: none; position: fixed; bottom: 120px; right: 140px; background: #f0f0f0; padding: 10px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); z-index: 1001; white-space: nowrap;">Hello, If you want to report anything/ want to let us know anything? feel free to send a message here.</div>
+<img src="assets/img/contact_us.png" onclick="toggleWidget()" onmouseover="showMessage()" onmouseout="hideMessage()" style="cursor: pointer; position: fixed; bottom: 20px; right: 20px; width: 100px; height: 100px; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+<script>
+    function toggleWidget() {
+        var widget = document.getElementById('contact-widget');
+        var overlay = document.getElementById('overlay');
+        var displayStatus = widget.style.display === 'none' ? 'block' : 'none';
+        widget.style.display = displayStatus;
+        overlay.style.display = displayStatus;
+    }
+    
+    function showMessage() {
+        document.getElementById('message-bubble').style.display = 'block';
+    }
+    
+    function hideMessage() {
+        document.getElementById('message-bubble').style.display = 'none';
+    }
+    
+    document.getElementById('contact-form').addEventListener('submit', function(event) {
+        event.preventDefault();
+        var formData = new FormData(this);
+        fetch(this.action, {
+            method: 'POST',
+            body: formData,
+            headers: {
+                'Accept': 'application/json'
+            }
+        })
+        .then(response => {
+            if (response.ok) {
+                alert('Message sent successfully');
+                toggleWidget();
+            } else {
+                response.json().then(data => {
+                    if (data.errors) {
+                        alert(data.errors.map(error => error.message).join(", "));
+                    } else {
+                        alert('Oops! There was a problem submitting your form');
+                    }
+                });
+            }
+        })
+        .catch(error => alert('Error sending message: ' + error.message));
+    });
+    </script>
+    
+
+
+
+
+
 </body>
 </html>

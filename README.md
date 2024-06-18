@@ -113,6 +113,12 @@ Replace `action` with the call to action text and `url` with the url that the bu
 6. Send email.
 
 
+## Microagressions form (done with formspree)
+Login to formspree with CSGSA credentials, and add emails of the people monitoring the form responses(CSGSA email, emails of DEIA reps)
+If you are using a new formsree endpoint, change the link in _layouts\base.html
+
+
+
 ## Add/change footer links
 
 You can change footer links by editing the file  [_data/footer_links.yml](_data/footer_links.yml)
