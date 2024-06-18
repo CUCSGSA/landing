@@ -19,7 +19,7 @@ The CSGSA arranges **social events, professional development events**, and serve
 
 We have hosted a LOTT of social and professional development events but along with that we have also been responsible for a lot of very cool projects in the past.
 Some of our highlights include:
-1. Cost for Internship credits:
+1. Cost for Internship credits
 2. Project Accountability
 3. DEIA intiaives
 4. more projects...
