@@ -14,7 +14,7 @@ description: CS Graduate Student Association at CU website
 domain: cucsgsa.github.io/landing/
 
 #youtube plugin for CS-GPDC's youtube page
-plugins: [jekyll-youtube]
+#plugins: [jekyll-youtube]
 
 # Style variables
 background_color: "#FAFAFA"
