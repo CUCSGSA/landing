@@ -2,8 +2,7 @@
 layout: page
 ---
 
- {% youtube "https://www.youtube.com/watch?v=1bP-fFxAMOI&list=RD1bP-fFxAMOI&start_radio=1" %}
-
+ 
 
 
  
