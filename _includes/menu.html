@@ -11,7 +11,13 @@
 				<span class="icon-bar"></span>
 				</button>
 				<a class="navbar-brand" href="{{'/'|relative_url}}">
-					<img src="{{site.logo | relative_url}}" class="logo" alt="Computer Science Graduate Student Association">
+					<!--img src="{{site.logo | relative_url}}" class="logo" alt="Computer Science Graduate Student Association"-->
+					<!-- Conditional logo display based on page-specific front matter -->
+					{% if page.logo_type == 'alternate' %}
+						<img src="{{ site.alternate_logo | relative_url }}" class="logo" alt="Alternate Logo">
+					{% else %}
+						<img src="{{ site.logo | relative_url }}" class="logo" alt="Standard Logo">
+					{% endif %}
 				</a>
 			</div>
 		
