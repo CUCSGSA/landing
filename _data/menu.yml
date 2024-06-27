@@ -1,7 +1,10 @@
 # This is the list of pages to include in the header of the website.
 
-- name: Home
-  url: /
+
+
+- name: Upcoming events
+  url: /upcoming_events
+
 
 - name: CS-GSA
   subcategories:
@@ -11,7 +14,7 @@
     url: /officers
   - name: Bylaws
     url: /bylaws
-  - name: Events
+  - name: Past Events
     url: GSA_Events
   - name: Projects
     url: /projects
@@ -22,13 +25,15 @@
   url: /archive
   visible: hide
 
+
+
 - name: CS-GPDC
   subcategories:
   - name: Officers
     url: GPDC_Officers
   - name: About
     url: GPDC_about
-  - name: Events
+  - name: Past Events
     url: GPDC_Events
 
 - name: The Neural Network
