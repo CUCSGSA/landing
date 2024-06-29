@@ -431,3 +431,18 @@ section.events{
     margin-top:10px;
     
 }
+
+.navbar-brand.navbar-right {
+    padding-left: 20px; /* Adjust spacing as needed */
+}
+
+.navbar-collapse {
+    justify-content: space-between; /* Ensures elements are spaced out from start to end */
+}
+
+.navbar-brand.navbar-right img.logo {
+    height: 50px; /* Adjust height as needed */
+    vertical-align: middle; /* Aligns the image vertically in the middle */
+    padding: 0; /* Removes any default padding */
+    margin-top: -10px; /* Adjust this value to better align the logo vertically */
+}

@@ -1,56 +1,50 @@
-
 <nav class="navbar navbar-default">
-	<div class="container">
-		<div class="row">
-			<!-- Brand and toggle get grouped for better mobile display -->
-			<div class="navbar-header">
-				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-				<span class="sr-only">Toggle navigation</span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				</button>
-				<a class="navbar-brand" href="{{'/'|relative_url}}">
-					<!--img src="{{site.logo | relative_url}}" class="logo" alt="Computer Science Graduate Student Association"-->
-					<!-- Conditional logo display based on page-specific front matter -->
-					{% if page.logo_type == 'alternate' %}
-						<img src="{{ site.alternate_logo | relative_url }}" class="logo" alt="Alternate Logo">
-					{% else %}
-						<img src="{{ site.logo | relative_url }}" class="logo" alt="Standard Logo">
-					{% endif %}
-				</a>
-			</div>
-		
-			<!-- Collect the nav links, forms, and other content for toggling -->
-			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-				<ul class="nav navbar-nav navbar-right">
-					{% for link in site.data.menu %}		
-						{%if link.visible != "hide" and link.subcategories%}
-							<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-										{{ link.name|upcase }}	
-									<span class="caret"></span></a>
-								</a>
-								<ul class="dropdown-menu">
-									{% for sub in link.subcategories %}
-										{%if sub.external%}
-											<li><a href="{{ sub.external}}">{{sub.name}}</a></li>
-										{%else%}
-											<li><a href="{{ sub.url | relative_url}}">{{sub.name}}</a></li>
-										{%endif%}
-									{%endfor%}
-								</ul>
-							</li>
+    <div class="container">
+        <div class="row">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span the="icon-bar"></span>
+                </button>
+                <!-- Left logo -->
+                <a class="navbar-brand" href="{{'/'|relative_url}}">
+                    <img src="{{ site.logo | relative_url }}" class="logo" alt="Standard Logo">
+                </a>
+            </div>
 
-						{%else%}
-							{%if link.visible != "hide" %}
-							<li><a href="{{ link.url|relative_url}}">{{ link.name|upcase }}</a></li>
-							{%endif%}
-						{%endif%}
-					{%endfor%}
-				</ul>
-			</div><!-- /.navbar-collapse -->
-		</div>
-	</div><!-- /.container-fluid -->
-  </nav>
-  
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    {% for link in site.data.menu %}
+                        {% if link.visible != "hide" and link.subcategories %}
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                    {{ link.name|upcase }}    
+                                    <span class="caret"></span>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    {% for sub in link.subcategories %}
+                                        <li><a href="{{ sub.url | relative_url }}" {% if sub.external %}target="_blank"{% endif %}>{{sub.name}}</a></li>
+                                    {% endfor %}
+                                </ul>
+                            </li>
+                        {% else %}
+                            {% if link.visible != "hide" %}
+                                <li><a href="{{ link.url|relative_url }}" {% if link.external %}target="_blank"{% endif %}>{{ link.name|upcase }}</a></li>
+                            {% endif %}
+                        {% endif %}
+                    {% endfor %}
+                    <!-- Right logo within the same ul for proper alignment -->
+                    <li class="navbar-right logo-item">
+                        <a class="navbar-brand navbar-right" href="{{'/'|relative_url}}" style="padding-left: 20px;">
+							<img src="{{ site.alternate_logo | relative_url }}" class="logo" alt="Alternate Logo" style="height: 50px; width: auto;">
+						</a>
+                    </li>
+                </ul>
+            </div><!-- /.navbar-collapse -->
+        </div>
+    </div><!-- /.container-fluid -->
+</nav>
