@@ -4,7 +4,7 @@ logo_type: alternate
 ---
 
 
-
+# GPDC Events Page
 
 Welcome to the Graduate Professional Development Club's Events page! Here, you'll find a comprehensive overview of the various professional development activities we organize. Our events range from industry-specific workshops to competitive programming contests, all designed to enhance your skills and boost your career prospects. For our upcoming events schedule, please check the calendar on our [Index Page](/).
 
