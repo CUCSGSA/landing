@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Events Page
 ---
 
-
-# Events Page
 
 Welcome to our Events page! Here you can explore the various events hosted by CSGSA. These events range from cultural celebrations to academic fairs and weekly social gatherings. To stay updated on our upcoming events, please visit the calendar on our [Index Page](/).
 

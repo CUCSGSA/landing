@@ -1,6 +1,6 @@
 ---
 layout: page
-logo_type: alternate
+title: GPDC Officers
 ---
 
 

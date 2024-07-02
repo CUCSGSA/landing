@@ -1,7 +1,8 @@
 ---
 layout: page
+title: Class Reviews
 ---
-# Class Reviews
+
 Welcome to our class reviews page! Here you can find and offer feedback about various courses offered.
 
 
