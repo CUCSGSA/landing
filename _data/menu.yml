@@ -37,6 +37,9 @@
     url: GPDC_about
   - name: Past Events
     url: GPDC_Events
+  - name: Youtube
+    url: https://www.youtube.com/@CS-GPDC
+    external: true
 
 - name: The Neural Network
   url: /neural-networkl

@@ -21,5 +21,5 @@ The CSGPDC organizes various professional development events, some of them inclu
 For more information check out our [events page](/GPDC_events)
 
 ## We also have had our alumni and various industry experts give talks on a variety of topics.
-Here's one such example
+Here's one such example. Check out our [Youtube channel to view all of our content](https://www.youtube.com/@CS-GPDC){:target="_blank"}
  <iframe width="900" height="500" src="https://www.youtube.com/embed/sRsLGpBynAM?si=o6wda-o0UhIKVaA9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
