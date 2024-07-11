@@ -12,6 +12,8 @@
     url: /GSA_about
   - name: Officers
     url: /officers
+  - name: People
+    url: /people
   - name: Bylaws
     url: /bylaws
   - name: Past Events
@@ -47,18 +49,11 @@
     external: true
   - name: Graduate Student Parent Resources
     url: 2024/02/26/Graduate-Student-Parent-Resources.html
-
-  - name: Antiracism and Inclusion
-    url: dei
   - name: Reporting and Support
     url: concerns
-  # - name: Quality of Life
-  #   url: quality_of_life
-  #   visible: hide 
   - name: Moving to Boulder
     url: moving
   - name: Grad Student Jobs
-    #url: 2018/07/02/CS-Graduate-Student-Jobs.html
     url: https://www.colorado.edu/cs/jobs
     external: true
   - name: Fellowship Resources
@@ -66,10 +61,6 @@
     external: true
   - name: Travel Funding
     url: 2018/09/12/Travel-Grants.html
-  # - name: Graduate Student Petitions
-  #   url: grad-petitions
-  # - name: Join us on Slack!
-  #   url: join-on-slack
   - name: Application Feedback Program
     url: app-feedback
    

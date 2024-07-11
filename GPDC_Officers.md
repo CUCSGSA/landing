@@ -5,8 +5,6 @@ title: GPDC Officers
 
 
 
-
-# CSGPDC Executive Board
 If you're interested in reaching the CSGPDC execs - please send us an email at csgpdc@colorado.edu
 
 ### CSGPDC Chair
@@ -110,6 +108,33 @@ The treasurer's responsibilities are to:
 </div>
 
 
+# Alumni
+
+We're sad to see you go! Thanks for all your help.
+
+<h3>CSGSA Chair</h3>
+<ul>
+  {% assign chair = site.data.officers.alumni | where: "title", "GPDC Chair" | first %}
+  {% for person in chair.people %}
+    <li>{{ person.years }} &raquo; {{ person.name }}</li>
+  {% endfor %}
+</ul>
+
+<h3>CSGSA Vice Chair</h3>
+<ul>
+  {% assign vice_chair = site.data.officers.alumni | where: "title", "GPDC Vice Chair" | first %}
+  {% for person in vice_chair.people %}
+    <li>{{ person.years }} &raquo; {{ person.name }}</li>
+  {% endfor %}
+</ul>
+
+<h3>CSGSA Treasurer</h3>
+<ul>
+  {% assign treasurer = site.data.officers.alumni | where: "title", "GPDC Treasurer" | first %}
+  {% for person in treasurer.people %}
+    <li>{{ person.years }} &raquo; {{ person.name }}</li>
+  {% endfor %}
+</ul>
 
 
 
