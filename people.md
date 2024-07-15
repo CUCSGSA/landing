@@ -101,6 +101,33 @@ Bio: {{person.bio}}
 {%endfor%}
 </div>
 
+
+## Tea Time Co-ordinator
+
+Tea time is weekly social event with tea, snacks, board games and lots of fun. The Tea time coordinator(or the Chai Champion) is responsible for hosting the event, making sure the supplies are stocked, and sending out a reminder email. 
+
+
+
+{::options parse_block_html="true" /}
+<div class="container">
+{%for person in site.data.officers.tea_time%}
+<div class="col-sm-6">
+<div class="card">
+{%if person.photo%}
+![{{person.name}}]({{person.photo}}){:height="300px"}
+{%endif%}
+{{person.name}}
+
+Pronouns: {{person.pronouns}}
+
+Bio: {{person.bio}}
+</div>
+</div>
+{%endfor%}
+</div>
+
+
+
 ## Web Guru
 
 {::options parse_block_html="true" /}

@@ -55,6 +55,12 @@ grad_comm:
       photo: assets/img/officers/anon.jpg
       bio:  to be done
 
+tea_time:
+    - name: Breanne crockett
+      contact: breanne.crockett@
+      pronouns: She/Her/Hers
+      photo: assets/img/officers/anon.jpg
+
 exec_comm:
     name: Ananya Ganesh
     contact: Ananya.ganesh@
