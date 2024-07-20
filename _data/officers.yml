@@ -45,9 +45,9 @@ gpdc_treasurer:
 grad_comm:
     - name: Bashayer Alharbi
       contact: bashayer.alharbi@
-      photo: assets/img/officers/anon.jpg
+      photo: assets/img/officers/bashayer.jpg
       pronouns: She/Her/Hers
-      bio: to be done
+      bio: Bashayer is a 2nd year Ph.D. student in the Computer Systems Lab. Her research interests are in network systems and security. She enjoys hiking for the stunning views, exploring nature, watching TV shows, and reading.
 
     - name: Aaptha Boggaram
       contact:  Aaptha.Boggaram@
@@ -59,7 +59,8 @@ tea_time:
     - name: Breanne crockett
       contact: breanne.crockett@
       pronouns: She/Her/Hers
-      photo: assets/img/officers/anon.jpg
+      photo: assets/img/officers/breanne_crockett.JPG
+      bio: Breanne is a 3rd year PhD student working on human-robot interaction in the Collaborative AI and Robotics lab. In her free time, she enjoys knitting, hiking and playing trumpet in local Boulder bands.
 
 exec_comm:
     name: Ananya Ganesh
