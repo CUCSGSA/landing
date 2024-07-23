@@ -4,7 +4,7 @@ title: People
 ---
 
 
-CSGSA will not be as successful as it is without the help of all of our amazing representatives, co-ordinators and volunteers. 
+CSGSA will not be as successful as it is without the help of all of our amazing representatives, co-ordinators and volunteers. If you fancy being in one of these roles, the form for self-nominations go out sometime in late spring, keep an eye out for it! 
 
 
 Here are some of the people in these roles currently.
@@ -125,6 +125,33 @@ Bio: {{person.bio}}
 </div>
 {%endfor%}
 </div>
+
+
+
+## Student Ambassadors
+
+Our Student Ambassadors are volunteers who help us in student recruitment. They help the department in various events before and after students getting admits. They are often also helpful in the new students' slack, answering any questions the incoming students might have. In the past, PhD volunteers have helped applicants in crafting a better application. They often give advice on how to improve the Statement of Purpose and other tips.
+
+
+
+{::options parse_block_html="true" /}
+<div class="container">
+{%for person in site.data.officers.student_ambassadors%}
+<div class="col-sm-6">
+<div class="card">
+{%if person.photo%}
+![{{person.name}}]({{person.photo}}){:height="300px"}
+{%endif%}
+{{person.name}}
+
+Pronouns: {{person.pronouns}}
+
+Bio: {{person.bio}}
+</div>
+</div>
+{%endfor%}
+</div>
+
 
 
 

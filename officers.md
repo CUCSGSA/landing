@@ -108,7 +108,7 @@ The treasurer's responsibilities are to:
 
 We're sad to see you go! Thanks for all your help.
 
-<h3>Chair</h3>
+<!-- <h3>CSGSA Chair</h3>
 <ul>
   {% assign chair = site.data.officers.alumni | where: "title", "Chair" | first %}
   {% for person in chair.people %}
@@ -116,7 +116,7 @@ We're sad to see you go! Thanks for all your help.
   {% endfor %}
 </ul>
 
-<h3>Vice Chair</h3>
+<h3>CSGSA Vice Chair</h3>
 <ul>
   {% assign vice_chair = site.data.officers.alumni | where: "title", "Vice Chair" | first %}
   {% for person in vice_chair.people %}
@@ -124,10 +124,73 @@ We're sad to see you go! Thanks for all your help.
   {% endfor %}
 </ul>
 
-<h3>Treasurer</h3>
+<h3>CSGSA Treasurer</h3>
 <ul>
   {% assign treasurer = site.data.officers.alumni | where: "title", "Treasurer" | first %}
   {% for person in treasurer.people %}
     <li>{{ person.years }} &raquo; {{ person.name }}</li>
   {% endfor %}
-</ul>
+</ul> -->
+
+
+
+## Spring 2024
+
+* Chair - Erika Hunhoff
+* Vice Chair - Kevin Lane
+* Treasurer - Nour Rahal-Arabi
+* Anti-racism and Inclusion Chair - Shipra Singh
+
+
+
+
+## Fall 2023
+
+* Chair - Corey Murphy
+* Vice Chair - Spencer Wilson
+* Treasurer - Ruchi Dhamani
+* Anti-racism and Inclusion Chair - Prashanth Prahaladhan
+
+
+## Spring 2023
+
+* Chair - Jay Luther
+* Vice Chair - Dreycey Albin
+* Treasurer - Ruchi Dhamani
+* Anti-racism and Inclusion Chair - Prashanth Prahaladhan
+
+
+## Spring, Fall 2022
+
+* Chair - Maggie Perkoff
+* Vice Chair - Aishwarya Satwani
+* Treasurer - Neerab Kumar Pathipaka
+* Anti-racism and Inclusion Chair - Evariste Some
+
+
+## Spring, Fall 2021
+
+* Chair - Emily Jensen
+* Treasurer - Caleb Escobedo
+* Anti-racism and Inclusion Chair - Christine Chang
+
+
+## Spring, Fall 2020
+
+* Chair - Emily Jensen
+* Treasurer - Dylan Fox
+* Anti-racism and Inclusion Chair - Christine Chang
+
+
+## Spring, Fall 2019
+
+* Chair - Jessie Finocchiaro
+* Treasurer - Yash Sapra
+
+
+## Spring, Fall 2018
+
+* Chair - Stephen Hutt
+* Treasurer - Prasanth Prahladan
+
+

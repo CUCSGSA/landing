@@ -112,32 +112,25 @@ The treasurer's responsibilities are to:
 
 We're sad to see you go! Thanks for all your help.
 
-<h3>CSGPDC Chair</h3>
-<ul>
-  {% assign chair = site.data.officers.alumni | where: "title", "GPDC Chair" | first %}
-  {% for person in chair.people %}
-    <li>{{ person.years }} &raquo; {{ person.name }}</li>
-  {% endfor %}
-</ul>
+## Fall 2023, Spring 2024
 
-<h3>CSGPDC Vice Chair</h3>
-<ul>
-  {% assign vice_chair = site.data.officers.alumni | where: "title", "GPDC Vice Chair" | first %}
-  {% for person in vice_chair.people %}
-    <li>{{ person.years }} &raquo; {{ person.name }}</li>
-  {% endfor %}
-</ul>
-
-<h3>CSGPDC Treasurer</h3>
-<ul>
-  {% assign treasurer = site.data.officers.alumni | where: "title", "GPDC Treasurer" | first %}
-  {% for person in treasurer.people %}
-    <li>{{ person.years }} &raquo; {{ person.name }}</li>
-  {% endfor %}
-</ul>
+* Chair - Rohit Taware
+* Vice Chair - Sriranga Ramaswamy
+* Treasurer - Bhoomika Singhla
 
 
+## Spring 2023
 
+* Chair - Sachin Sharma
+* Vice Chair - Nikitha Menon
+* Treasurer - Rohit Taware
+
+
+## Fall 2022
+
+* Chair - Sagar Pathare
+* Vice Chair - Sachin Sharma
+* Treasurer - Nikitha Menon
 
 
  

@@ -62,6 +62,39 @@ tea_time:
       photo: assets/img/officers/breanne_crockett.JPG
       bio: Breanne is a 3rd year PhD student working on human-robot interaction in the Collaborative AI and Robotics lab. In her free time, she enjoys knitting, hiking and playing trumpet in local Boulder bands.
 
+
+student_ambassadors:
+    - name: Ayan Choudary
+      pronuouns: He/Him/His
+      photo: assets/img/officers/anon.jpg
+      bio: tbd
+
+    - name: Deepanshu Sachdeva
+      pronuouns: He/Him/His
+      photo: assets/img/officers/anon.jpg
+      bio: tbd
+
+    - name: Saadhvi Rayasam
+      pronuouns: She/Her/Hers
+      photo: assets/img/officers/anon.jpg
+      bio: tbd
+
+    - name: Kushal Nagarajan
+      pronuouns: He/Him/His
+      photo: assets/img/officers/anon.jpg
+      bio: tbd
+
+    - name: Neelima Prasad
+      pronuouns: She/Her/Hers
+      photo: assets/img/officers/anon.jpg
+      bio: tbd
+
+    - name: Daniel Fang
+      pronuouns: He/Him/His
+      photo: assets/img/officers/anon.jpg
+      bio: tbd
+
+
 exec_comm:
     name: Ananya Ganesh
     contact: Ananya.ganesh@
@@ -83,25 +116,22 @@ deia:
       bio: Josh Myers-Dean is a 3rd year PhD Student in Computer Science, primarily interested in accessibility and image segmentation. Josh is also passionate about engaging youth in computational tinkering activities and has been co-designing curricula with the ITLP here at CU. Outside of work, he enjoys running, climbing, biking, cooking, and knitting.
 
 gpsg:
-    - name: Chiranthan Sridhar
-      contact: Chiranthan.Sridhar@
-      photo: assets/img/officers/chiranthan_sridhar.jpg
-      pronouns: He/Him/His
-      bio: Chiranthan is a second year MSCS student researching in field of Natural Language Processing, currently on evaluation of Dialogue Systems. He likes to swim, listen to music and play piano.
+    - name: tbd
+      photo: assets/img/officers/anon.jpg
+      pronouns: ??
+      bio: tbd
     
-    - name: Arnib Alam
-      contact: Arnib.Alam@
-      photo: assets/img/officers/arnib_alam.jpg
-      pronouns: She/Hers/Her
-      bio: Arnib is a first-year MS-CSEN student in the research track. Her interests include High performance computing, Distributed systems and ML with the focus to develop innovative solutions to improve system design. She holds a Master’s degree in Electrical Engineering and has worked in Taiwan for four years. During this period, she extensively traveled and actively participated in language/cultural group exchanges. Her hobbies include exploring places, baking, dancing and rapping.
-  
+    - name: tbd
+      photo: assets/img/officers/anon.jpg
+      pronouns: ??
+      bio: tbd
+
 webguru:
-    name: Chiranthan Sridhar
-    contact: Chiranthan.Sridhar@
-    photo: assets/img/officers/chiranthan_sridhar.jpg
+    name: Kushal Nagarajan
+    contact: kushal.nagarajan@
+    photo: assets/img/officers/anon.jpg
     pronouns: He/Him/His
-    bio: Chiranthan is a second year MSCS student researching in field of Natural Language Processing, currently on evaluation of Dialogue Systems. He likes to swim, listen to music and play piano.
-    
+    bio: tbd    
 
 alumni:
     - title: Chair
@@ -117,9 +147,9 @@ alumni:
           - name: Emily Jensen
             years: Spring 2020 - Fall 2021
           - name: Jessie Finocchiaro
-            years: Spring 2019 - Fall 2020
+            years: Spring 2019 - Fall 2019
           - name: Stephen Hutt
-            years: Spring 2018 - Fall 2019
+            years: Spring 2018 - Fall 2018
 
     - title: Vice Chair
       people:
