@@ -46,10 +46,15 @@
 - name: Resources and FAQ
   subcategories:
   - name: Graduate Student Handbook
-    url: /assets/pdf/graduate_student_handbook_fall_2018.pdf
+    url: https://www.colorado.edu/cs/sites/default/files/attached-files/graduate_student_handbook_fall_2023.pdf
     external: true
   - name: Graduate Student Parent Resources
-    url: 2024/02/26/Graduate-Student-Parent-Resources.html
+    url: new_parent_guide
+  - name: Emergency Funds
+    url: https://www.colorado.edu/cs/students/emergency-funds-and-resources
+    external: true
+  - name: Health Insurance and medical emergencies
+    url: health_insurance
   - name: Reporting and Support
     url: concerns
   - name: Moving to Boulder
@@ -61,7 +66,9 @@
     url: https://www.colorado.edu/cs/admissions/graduate-admissions/funding-opportunities/external-funding-opportunities-graduate
     external: true
   - name: Travel Funding
-    url: 2018/09/12/Travel-Grants.html
+    url: travel_grants
+  - name: Tentative classes
+    url: tentative_classes
   # - name: Application Feedback Program
   #   url: app-feedback
    
