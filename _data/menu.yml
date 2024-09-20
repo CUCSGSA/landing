@@ -46,7 +46,7 @@
 - name: Resources and FAQ
   subcategories:
   - name: Graduate Student Handbook
-    url: https://www.colorado.edu/cs/sites/default/files/attached-files/graduate_student_handbook_fall_2023.pdf
+    url: https://www.colorado.edu/cs/media/1908/
     external: true
   - name: Graduate Student Parent Resources
     url: new_parent_guide
