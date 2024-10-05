@@ -33,6 +33,8 @@
     url: GPDC_Officers
   - name: About
     url: GPDC_about
+  - name: Bylaws
+    url: gpdc_bylaws
   - name: Past Events
     url: GPDC_Events
   - name: Youtube
