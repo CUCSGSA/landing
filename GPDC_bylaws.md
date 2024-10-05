@@ -1,3 +1,8 @@
+---
+layout: page
+title: CSGPDC Bylaws
+---
+
 # Overview
 Computer Science Graduate Professional Development Club (CS-GPDC) is a student club run by and for graduate students, housed in the Computer Science Department at CU Boulder. Its main goal is to create a community of students and help them develop skills needed to prepare for job opportunities in the tech industry after graduation. 
 
