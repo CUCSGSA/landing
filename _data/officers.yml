@@ -51,9 +51,9 @@ grad_comm:
 
     - name: Aaptha Boggaram
       contact:  Aaptha.Boggaram@
-      pronouns: He/Him/His
-      photo: assets/img/officers/anon.jpg
-      bio:  to be done
+      pronouns: She/Her/Hers
+      photo: assets/img/officers/aaptha.jpg
+      bio:  Aaptha Boggaram is a 2nd year MS-CSEN student interested in applying AI in the field of biology and healthcare. But most importantly, she wants to make an impact with her work. She enjoys gaming, painting, hiking, spending time with her loved ones and exploring new places. 
 
 tea_time:
     - name: Breanne crockett
@@ -64,16 +64,6 @@ tea_time:
 
 
 student_ambassadors:
-    - name: Ayan Choudary
-      pronuouns: He/Him/His
-      photo: assets/img/officers/anon.jpg
-      bio: tbd
-
-    - name: Deepanshu Sachdeva
-      pronuouns: He/Him/His
-      photo: assets/img/officers/anon.jpg
-      bio: tbd
-
     - name: Saadhvi Rayasam
       pronuouns: She/Her/Hers
       photo: assets/img/officers/anon.jpg
@@ -86,8 +76,8 @@ student_ambassadors:
 
     - name: Neelima Prasad
       pronuouns: She/Her/Hers
-      photo: assets/img/officers/anon.jpg
-      bio: tbd
+      photo: assets/img/officers/neelima.jpg
+      bio: Neelima is a 2nd year PhD student currently studying computer vision and deep learning. She loves dancing, cooking and exploring new cities. She can often be found in the forest photographing birds
 
     - name: Daniel Fang
       pronuouns: He/Him/His
