@@ -29,10 +29,12 @@
 
 - name: CS-GPDC
   subcategories:
-  - name: Officers
-    url: GPDC_Officers
   - name: About
     url: GPDC_about
+  - name: Officers
+    url: GPDC_Officers
+  - name: People
+    url: GPDC_People
   - name: Bylaws
     url: GPDC_bylaws
   - name: Past Events
