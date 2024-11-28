@@ -38,38 +38,58 @@ The chair's responsibilities are to:
 </div>
 </div>
 
-### CSGSA Vice Chair
+### CSGSA Vice Chairs
 
 {::options parse_block_html="true" /}
 <div class="container">
 <div class="row">
+<!-- Vice Chair -->
 <div class="col-sm-4">
 <div class="card">
-{::options parse_block_html="true" /}
-{%assign person = site.data.officers.vice_chair%}
-{%if person.photo%}
-![{{person.name}}]({{person.photo}}){:height="300px"}
-{%endif%}
-{{person.name}}
+{% assign person = site.data.officers.vice_chair %}
+{% if person.photo %}
+![{{ person.name }}]({{ person.photo }}){:height="300px"}
+{% endif %}
+{{ person.name }}
 
-Pronouns: {{person.pronouns}}
+Pronouns: {{ person.pronouns }}
 
-Bio: {{person.bio}}
+Bio: {{ person.bio }}
 </div>
 </div>
 
-<div class="col-sm-8">
+<!-- Vice Chair 2 -->
+<div class="col-sm-4">
+<div class="card">
+{% assign person = site.data.officers.vice_chair2 %}
+{% if person.photo %}
+![{{ person.name }}]({{ person.photo }}){:height="300px"}
+{% endif %}
+{{ person.name }}
+
+Pronouns: {{ person.pronouns }}
+
+Bio: {{ person.bio }}
+</div>
+</div>
+
+<!-- Responsibilities -->
+<div class="col-sm-4">
+<div>
 The vice chair's responsibilities are to:
+<ol>
+<li>Run CSGSA meetings in the chair’s absence</li>
+<li>Manage and maintain organizational documents</li>
+<li>Manage regular email communication with members and student body</li>
+<li>Be responsible for minutes of meetings</li>
+<li>Assist the Chair where necessary</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
 
-1. Run CSGSA meetings in the chair’s absence
-2. Manage and maintain organizational documents
-3. Manage regular email communication with members and student body
-4. Be responsible for minutes of meetings
-5. Assist the Chair where necessary
 
-</div>
-</div>
-</div>
 
 ### CSGSA Treasurer
 

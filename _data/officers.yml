@@ -12,8 +12,15 @@ vice_chair:
     contact: Kevin.Lane@
     photo: assets/img/officers/kevin_lane.jpg
     pronouns: He/Him/His
-    bio: Kevin is a first year research-based M.S. student interested in studying geospatial machine learning.  Prior to coming to CU Boulder, he worked in Boston as a software engineer on large scale data pipelines.  Before that, his working background largely was centered around outdoor education, where he’s worked as a swim instructor, raft guide, and sailing instructor.  In his spare time, Kevin is an avid musician, runner/hiker, snowboarder, boardgame enthusiast, and baseball fan.  
+    bio: Kevin is a first year research-based M.S. student interested in studying geospatial machine learning.  Prior to coming to CU Boulder, he worked in Boston as a software engineer on large scale data pipelines.  Before that, his working background largely was centered around outdoor education, where he’s worked as a swim instructor, raft guide, and sailing instructor.  In his spare time, Kevin is an avid musician, runner/hiker, snowboarder, boardgame enthusiast, and baseball fan. 
 
+vice_chair2:
+    name: Ayushi Sabnis
+    contact: Ayushi.Sabnis@
+    photo: assets/img/officers/ayushi_sabnis.jpeg
+    pronouns: She/Her
+    bio: Ayushi is first year MS student. Before coming to CU Boulder, she worked as a data scientist improving search performance. She enjoys hiking, reading books and dancing.
+    
 treasurer:
     name: Nour Rahal-Arabi
     contact: Nour.Rahal-Arabi@
