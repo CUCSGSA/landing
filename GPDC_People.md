@@ -20,7 +20,7 @@ Meet some of our outstanding coordinators currently driving CS-GPDC forward:
 - **Gyanig Kumar** - Industry Speaker Series
 - **Rishiraj Paul Chowdhury** - Job Search Workshop
 - **Ramyashree Mummuderlapalli Krishnaiah** - Job Search Workshop
-- **Darsh Thakkar** - Peer to Peer Mock Interview
+- **Aayush Gupta** - Peer to Peer Mock Interview
 - **Nishchal Shetty** - Peer to Peer Mock Interview
 - **Varshitha Sathish** - Resume Review
 - **Ujwal Karippali Chandran** - Resume Review

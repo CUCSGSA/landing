@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="assets/img/2023_group.png" alt="2023 group" width="100%">
+<img src="assets/img/team-group.jpeg" alt="2025 group" width="100%">
 
 # Who are we?
 The Computer Science Graduate Students Association (CSGSA) at the University of Colorado Boulder is a vibrant community spearheaded by and for computer science graduate students. Our mission is to **foster community** among graduate students within the Department of Computer Science and its affiliated departments/institutes. CSGSA is fundamentally a student-led body that thrives on the dedication and involvement of its members. The success of our initiatives and activities is a direct result of the passionate efforts of student leaders, representatives, and volunteers who tirelessly work to represent and support their peers.
@@ -28,10 +28,10 @@ It's a full-circle moment for CSGSA, as the organization that emerged from a tow
 Over the years, CSGSA has been instrumental in numerous initiatives that have significantly enhanced the graduate student experience. Highlights include:
 1. **Reducing the cost for internship credits**,
 2. **Establishing Project Accountability**,
-3. **Advancing DEIA initiatives**,
-4. **Securing Overleaf Premium for PhD students**,
-5. **Advocating for better wages** for TAs and RAs in response to the increasing cost of living,
-6. **Pursuing the creation of a dedicated lounge space** for graduate students, enhancing the quality of student life on campus,
-7. **Influencing curriculum changes**, where feedback from CSGSA led to the reduction of required breadth courses from five to three, directly impacting degree flexibility and student workload.
+<!--3. **Advancing DEIA initiatives**,-->
+3. **Securing Overleaf Premium for PhD students**,
+4. **Advocating for better wages** for TAs and RAs in response to the increasing cost of living,
+5. **Pursuing the creation of a dedicated lounge space** for graduate students, enhancing the quality of student life on campus,
+6. **Influencing curriculum changes**, where feedback from CSGSA led to the reduction of required breadth courses from five to three, directly impacting degree flexibility and student workload.
 
 These achievements are a testament to the collaborative spirit and dedication of our members who continue to drive CSGSA's mission forward, making it an indispensable part of the CU Boulder community.

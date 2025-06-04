@@ -3,136 +3,104 @@
 chair:
     name: Sriranga Ramaswamy
     contact: srianga.kalkunteramaswamy@
-    photo: assets/img/officers/ranga.JPG
+    photo: assets/img/officers/ranga.jpg
     pronouns: He/Him/His
     bio: Sriranga is a PhD student intrested in Cybersecurity. He is a man of many hobbies, woodworking, 3D-Printing, Origami, and many more. He can often be spotted photographing the flatirons or cute little squirrels on campus.
 
 vice_chair:
-    name: Kevin Lane
-    contact: Kevin.Lane@
-    photo: assets/img/officers/kevin_lane.jpg
-    pronouns: He/Him/His
-    bio: Kevin is a first year research-based M.S. student interested in studying geospatial machine learning.  Prior to coming to CU Boulder, he worked in Boston as a software engineer on large scale data pipelines.  Before that, his working background largely was centered around outdoor education, where he’s worked as a swim instructor, raft guide, and sailing instructor.  In his spare time, Kevin is an avid musician, runner/hiker, snowboarder, boardgame enthusiast, and baseball fan. 
+    name: Bashayer Alharbi
+    contact: bashayer.alharbi@
+    photo: assets/img/officers/bashayer.jpg
+    pronouns: She/Her
+    bio: Bashayer is a Ph.D. student in the Computer Systems Lab. Her research interests are in network systems and security. She enjoys hiking for the stunning views, exploring nature, watching TV shows, and reading.
 
 vice_chair2:
-    name: Ayushi Sabnis
-    contact: Ayushi.Sabnis@
-    photo: assets/img/officers/ayushi_sabnis.jpeg
-    pronouns: She/Her
-    bio: Ayushi is first year MS student. Before coming to CU Boulder, she worked as a data scientist improving search performance. She enjoys hiking, reading books and dancing.
-    
-treasurer:
-    name: Nour Rahal-Arabi
-    contact: Nour.Rahal-Arabi@
-    photo: assets/img/officers/nour_rahal-arabi.jpg
+    name: Gyanig Kumar
+    contact: Gyanig.Kumar@
+    photo: assets/img/officers/Gyanig_Kumar.jpeg
     pronouns: He/Him/His
-    bio: Nour is an MS student interested in machine learning and mathematical approaches for modeling infectious disease dynamics. He enjoys skiing, rock climbing, cooking, and reading in his spare time.
+    bio: Gyanig is a 2nd Year Research-based Master's student specializing in Computer Vision with Robotics. He enjoys playing the guitar and pursuing photography as hobbies.
+ 
+treasurer:
+    name: Pavan Appanna
+    contact: pavan.appanna@
+    photo: assets/img/officers/pavan.jpg
+    pronouns: He/Him/His
+    bio: Pavan is a research-based Master's student with interests spanning Systems and Computer Vision. He have experience in both industry and academia, and outside of work, he also enjoys hiking and practicing yoga.
 
 gpdc_chair:
-    name: Anirudh Maiya
-    contact: anirudh.maiya@
-    photo: assets/img/officers/anirudh_maiya.png
+    name: Siddharth De
+    contact: siddharth.de@
+    photo: assets/img/officers/siddharth.jpg
     pronouns: He/Him/His
-    bio: Anirudh is a second year MS-CSEN student. His research interests lie at the intersection of time series principles and optimization in machine learning. He also enjoys tackling problems involving multi-spectral data. In his free time, he enjoys road biking and hiking around Boulder.
+    bio: Siddharth is a 2nd year MS-CSEN student. His research interests lie in Computer Vision and Robotics. In his free time, he enjoys doing puzzles especially the daily NYT games.
 
 gpdc_vice_chair:
-    name: Ashwin Umadi
-    contact: ashwin.umadi@
-    photo: assets/img/officers/Ashwin_umadi.jpg
+    name: Saksham Khatwani
+    contact: saksham.khatwani@
+    photo: assets/img/officers/saksham_khatwani.jpeg
     pronouns: He/Him/His
-    bio: Ashwin Umadi is a second-year MS-CSEN student with a keen interest in Natural Language Processing, Computer Vision, and tackling real-world challenges through the integration of these fields. In his free time, he enjoys hiking, running, and playing badminton and cricket.
+    bio: Saksham is a research student passionate about contributing to the department and fostering professional growth alongside peers. He works on various NLP research projects, including those focused on low-resource languages and semantic text representations. Outside of academics, he enjoys cooking, often with a food documentary playing in the background.
 
 gpdc_treasurer:
-    name: Akshay Bakshi
-    contact: akshay.bakshi@
-    photo: assets/img/officers/akshay.jpg
+    name: Ankur Varma
+    contact: ankur.varma@
+    photo: assets/img/officers/ankur_varma.jpg
     pronouns: He/Him/His
-    bio: Akshay is an MS student interested in deep learning and computer vision. He is also a Software Engineer Intern at Dassault Systemes. In his free time, Akshay enjoys playing tennis and doing High Intensity workouts.
+    bio: Ankur Varma is a second year CSEN-MS student who is excited about studying reachablity analysis for Cyber Physical systems. In his free time he likes doing calisthenics workouts.
 
 grad_comm:
-    - name: Bashayer Alharbi
-      contact: bashayer.alharbi@
-      photo: assets/img/officers/bashayer.jpg
+    - name: Neelima Prasad
+      contact: neelima.prasad@
+      photo: assets/img/officers/Neelima_Prasad.jpeg
       pronouns: She/Her/Hers
-      bio: Bashayer is a 2nd year Ph.D. student in the Computer Systems Lab. Her research interests are in network systems and security. She enjoys hiking for the stunning views, exploring nature, watching TV shows, and reading.
+      bio: Neelima is a 3nd year PhD student currently studying computer vision and deep learning. She loves dancing, cooking and exploring new cities. She can often be found in the forest photographing birds.
 
-    - name: Aaptha Boggaram
-      contact:  Aaptha.Boggaram@
+    - name: Chandana Sunkara
+      contact:  chandana.sunkara@
       pronouns: She/Her/Hers
-      photo: assets/img/officers/aaptha.jpg
-      bio:  Aaptha Boggaram is a 2nd year MS-CSEN student interested in applying AI in the field of biology and healthcare. But most importantly, she wants to make an impact with her work. She enjoys gaming, painting, hiking, spending time with her loved ones and exploring new places. 
+      photo: assets/img/officers/chandana_sunkara.jpg
+      bio:  Chandana is a Master’s student in Computer Science. She is excited about using technology to build thoughtful, user-centred solutions and looking forward to collaborating with peers to make our grad community more connected, inclusive, and inspiring. 
 
 tea_time:
-    - name: Breanne crockett
-      contact: breanne.crockett@
-      pronouns: She/Her/Hers
-      photo: assets/img/officers/breanne_crockett.JPG
-      bio: Breanne is a 3rd year PhD student working on human-robot interaction in the Collaborative AI and Robotics lab. In her free time, she enjoys knitting, hiking and playing trumpet in local Boulder bands.
-
-
-student_ambassadors:
-    - name: Saadhvi Rayasam
-      pronuouns: She/Her/Hers
-      photo: assets/img/officers/anon.jpg
-      bio: tbd
-
-    - name: Kushal Nagarajan
-      pronuouns: He/Him/His
-      photo: assets/img/officers/anon.jpg
-      bio: tbd
-
-    - name: Neelima Prasad
-      pronuouns: She/Her/Hers
-      photo: assets/img/officers/neelima.jpg
-      bio: Neelima is a 2nd year PhD student currently studying computer vision and deep learning. She loves dancing, cooking and exploring new cities. She can often be found in the forest photographing birds
-
-    - name: Daniel Fang
-      pronuouns: He/Him/His
-      photo: assets/img/officers/anon.jpg
-      bio: tbd
-
+    - name: Nicholas Lewchenko
+      contact: Nicholas.Lewchenko@
+      pronouns: He/Him/His
+      photo: assets/img/officers/nicholas.jpeg
+      bio: Nicholas is a PhD student in Computer Science at the University of Colorado Boulder, advised by Professor Gowtham Kaki and formerly by Professor Pavol Černý. His research focuses on the intersection of programming languages and distributed systems, with an emphasis on identifying programming model restrictions that make distributed programs easier to write, verify, and reason about.
 
 exec_comm:
-    name: Ananya Ganesh
-    contact: Ananya.ganesh@
+    name: Breane Crockett
+    contact: Breane.Crocketth@
     pronouns: She/Her/Hers
-    photo: assets/img/officers/anon.jpg
-    bio: to be done
+    photo: assets/img/officers/breanne_crockett.JPG
+    bio: Breanne is a PhD student working on human-robot interaction in the Collaborative AI and Robotics lab. In her free time, she enjoys knitting, hiking and playing trumpet in local Boulder bands.
 
-deia:
-    - name: Karthik Sairam
-      contact: Karthik.sairam@
+<!--deia:
+    - name: tbd
+      contact: n/a
       photo: assets/img/officers/anon.jpg
-      pronouns: He/Him/His
+      pronouns: n/a
       bio: To be done
     
-    - name: Josh Myers-Dean
-      contact: Josh.Myers-dean@
-      photo: assets/img/officers/josh_myers.png
-      pronouns: He/Him/His
-      bio: Josh Myers-Dean is a 3rd year PhD Student in Computer Science, primarily interested in accessibility and image segmentation. Josh is also passionate about engaging youth in computational tinkering activities and has been co-designing curricula with the ITLP here at CU. Outside of work, he enjoys running, climbing, biking, cooking, and knitting.
-
-gpsg:
     - name: tbd
+      contact: n/a
       photo: assets/img/officers/anon.jpg
-      pronouns: ??
-      bio: tbd
-    
-    - name: tbd
-      photo: assets/img/officers/anon.jpg
-      pronouns: ??
-      bio: tbd
+      pronouns: n/a
+      bio: To be done-->
 
-webguru:
+<!-- webguru:
     name: Kushal Nagarajan
     contact: kushal.nagarajan@
     photo: assets/img/officers/anon.jpg
     pronouns: He/Him/His
-    bio: tbd    
+    bio: tbd-->    
 
 alumni:
     - title: Chair
       people:
+          - name: Sriranga Ramaswamy
+            years: Fall 2024 - current
           - name: Erika Hunhoff
             years: Spring 2024
           - name: Corey Lynn Murphey
@@ -150,6 +118,10 @@ alumni:
 
     - title: Vice Chair
       people:
+          - name: Kevin Lane
+            years: Fall 2024 - Spring 2025
+          - name: Ayushi Sabnis
+            years: Fall 2024 - Spring 2025
           - name: Spencer Wilson
             years: Fall 2023
           - name: Dreycey Albin
@@ -159,6 +131,8 @@ alumni:
 
     - title: Treasurer
       people:
+          - name: Nour Rahal-Arabi
+            years: Fall 2024 - Spring 2025
           - name: Ruchi Dhamnani
             years: Fall 2023
           - name: Neerab Kumar Pathipaka
@@ -180,6 +154,8 @@ alumni:
             years: Spring 2023
           - name: Rohit Taware
             years: Fall 2023 - Spring 2024
+          - name: Anirudh Maiya
+            years: Fall 2024 - Spring 2025
       
     - title: GPDC Vice Chair
       people:
@@ -189,6 +165,9 @@ alumni:
             years: Spring 2023
           - name: Sriranga Ramaswamy
             years: Fall 2023 - Spring 2024
+          - name: Akshay Bakshi
+            years: Fall 2024 - Spring 2025
+
     
     - title: GPDC Treasurer
       people:
@@ -198,6 +177,8 @@ alumni:
             years: Spring 2023
           - name: Bhoomika Singhla
             years: Fall 2023 - Spring 2024
+          - name: Ashwin Umadi
+            years: Fall 2024 - Spring 2025
       
 
     - title: CSGSA Anti-racism and Inclusion Chair
@@ -213,6 +194,10 @@ alumni:
 
     - title: Graduate Committee
       people:
+          - name: Bashayer Alharbi
+            years: Fall 2024 - Spring 2025
+          - name: Aaptha Boggaram
+            years: Fall 2024 - Spring 2025
           - name: Sourav Chakraborty
             years: Fall 2023 - Spring 2024
           - name: Pawin Taechoyotin
@@ -290,4 +275,3 @@ alumni:
             years: Fall 2021 - Fall 2022
           - name: Gerard Casas
             years: Spring 2018
-

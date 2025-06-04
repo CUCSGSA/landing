@@ -153,6 +153,13 @@ We're sad to see you go! Thanks for all your help.
 </ul> -->
 
 
+## Fall 2024, Spring 2025
+
+* Chair - Sriranga Ramaswamy
+* Vice Chair - Kevin Lane
+* Vice Chair - Ayushi Sabnis
+* Treasurer - Nour Rahal-Arabi
+
 
 ## Spring 2024
 
