@@ -20,6 +20,9 @@
     url: GSA_Events
   - name: Class reviews
     url: /classes
+  - name: Linkedin
+    url: https://www.linkedin.com/company/cs-gsa
+    external: true
 
 - name: Archive
   url: /archive
@@ -41,6 +44,9 @@
     url: GPDC_Events
   - name: Youtube
     url: https://www.youtube.com/@CS-GPDC
+    external: true
+  - name: Linkedin
+    url: https://www.linkedin.com/company/cs-gpdc
     external: true
 
 - name: The Neural Network
@@ -73,6 +79,9 @@
     url: travel_grants
   - name: Tentative classes
     url: tentative_classes
+  - name: Guide for Grad Student Insurance
+    url: guide_student_insurance
+    external: true
   # - name: Application Feedback Program
   #   url: app-feedback
    

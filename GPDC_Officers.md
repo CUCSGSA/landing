@@ -112,6 +112,13 @@ The treasurer's responsibilities are to:
 
 We're sad to see you go! Thanks for all your help.
 
+## Fall 2024, Spring 2025
+
+* Chair - Anirudh Maiya
+* Vice Chair - Ashwin Umadi
+* Treasurer - Akshay Bakshi
+
+
 ## Fall 2023, Spring 2024
 
 * Chair - Rohit Taware
