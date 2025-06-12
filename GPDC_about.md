@@ -23,16 +23,11 @@ For more information check out our [events page](/GPDC_events)
 
 ## Our Origin Story
 
-In Fall 2021, as new graduate students settled into the CS Master’s program, a common challenge became apparent, many felt underprepared to tackle the job market while balancing demanding coursework. With internship applications opening as early as August and only one summer to secure relevant experience, the pressure to land both an internship and a full-time job within two years felt overwhelming.
+The Computer Science Graduate Professional Development Club (CS-GPDC) at CU Boulder was established in Fall 2021. The then current graduate students identified a shared challenge in navigating the competitive job market while balancing the demands of academic life. They further identified the lack of mentorship opportunities for the technical job market. With internship and job application timelines beginning early, many students found themselves underprepared.
+During that semester, the idea to form a dedicated professional development club targeted at computing technical needs emerged from student discussions. With strong support from the department’s advising team, the CS-GPDC was launched, organizing its leadership structure, formalizing operations, and securing funding to begin programming.
 
-At the first CSGSA meeting that semester, students came together to discuss how they could better support each other through this intense period. From that conversation emerged the idea of forming a student-led club focused on professional development within the department—one that could provide both community and opportunity.
-
-The proposal was met with enthusiastic support from our graduate advisor, Rajshree, who brought years of experience and invaluable insight to the initiative. With her guidance, elections were held, founding members were elected, and the necessary paperwork swiftly completed. Within weeks, the Computer Science Graduate Professional Development Club (CS-GPDC) was officially launched.
-
-Backed by an annual budget and strong departmental support, the club quickly began hosting impactful events including mock interviews with alumni, coding contests, resume sessions, and talks by industry leaders. These efforts have helped students build confidence, gain mentorship, and secure meaningful internships and full-time roles.
-
-Today, thanks to the continued leadership beyond the founding members and unwavering support from the CS department, CS-GPDC has become an integral part of the CU Boulder graduate program. It assists our students in ways the founding members envisioned and in ways they hadn't even considered. We believe the club will continue to support our students, adapting to the ever-changing job market influenced by rising technologies. 
-
+Since its inception, CS-GPDC has hosted a wide range of initiatives - including technical mock interviews from industry partners and alumni, resume review sessions from alumni and senior graduate students, coding competitions focused on current industry directions, industry speaker series, and mentorship events - aimed at empowering students with the skills, confidence, and connections needed to succeed in the current job environment.
+Today, CS-GPDC continues to grow, driven by committed student leaders, a very supporting cast of coordinators and a strong support from the departmental. The club remains focused on helping CU Boulder’s CS graduate students thrive in a rapidly evolving tech landscape.
 
 ## We also have had our alumni and various industry experts give talks on a variety of topics.
 Here's one such example. Check out our [Youtube channel to view all of our content](https://www.youtube.com/@CS-GPDC){:target="_blank"}
