@@ -11,13 +11,10 @@ For the most accurate and up-to-date course offerings, please visit the [Univers
 ## Tentative list of classes for Fall
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRIVxJA_I9nZWFT7Ra_RQvnv3BEeWd2FVE57V6cdoKcVH7EVBHf4wWIs-eq5CjSHDUgiShiERUwTDgP/pubhtml?widget=true&amp;headers=false" width="100%" height="700"></iframe>
-
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSE_uku8W0YRy6Au1gpX430ONibGwoYi3CQdCIZYFPgxPaJb-fQTYITrv5_-Fm-8T7XllA59fhctClv/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="700"></iframe>
 
 ## Tentative list of classes for Spring
 
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT3HjE2eHh8QgOZx0AkuAA7nkMFDQ2mBUUnw1YAsypg_iBbqINauwVC8bqBZD7BUl6T7H_P67L4tZ76/pubhtml?widget=true&amp;headers=false" width="100%" height="700"></iframe>
-
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQjlWJ2c1yF34GeUPyQecjpje_89G17T_WpFrM6azZ3f2UhpPKg0WktfIBitI06iEFAcsukSHhKRE3n/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="700"></iframe>
 
 **Please remember that this list is subject to change, and we recommend checking the official course listings for the latest information.*
