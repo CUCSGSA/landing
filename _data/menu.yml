@@ -65,6 +65,9 @@
     external: true
   - name: Health Insurance and medical emergencies
     url: health_insurance
+  - name: Dependant Insurance Info
+    url: https://www.colorado.edu/health/gold-ship-spouse-dependent
+    external: true
   - name: Reporting and Support
     url: concerns
   - name: Moving to Boulder
