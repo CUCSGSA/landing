@@ -70,14 +70,11 @@ You are allowed to combine personal travel with business travel. The University 
 
 If you're adding personal travel, you need to do some additional research and obtain a business-only itinerary before submitting your DA request form (or Concur pre-approval for international travel). Create trip plans with cost estimates through Concur or [Christopherson Business Travel](https://www.cu.edu/psc/travel/booking-travel/full-service-booking-through-agent), to be submitted together in your DA form:
 
-1. **Business-only travel itinerary**, that excludes the personal travel.  
-   - Screenshot/get a PDF of this plan
+1. **Business-only travel itinerary**, that excludes the personal travel. Screenshot/get a PDF of this plan
 
-2. **True travel itinerary**, including personal travel.  
-   - Also save a screenshot/PDF of this
+2. **True travel itinerary**, including personal travel. Also save a screenshot/PDF of this
 
-3. **Fill out DA form/Concur trip request** with your true trip details and pricing and attach the comparison quote.  
-   - Leave off any personal costs (e.g. hotel stays that are part of your personal travel)
+3. **Fill out DA form/Concur trip request** with your true trip details and pricing and attach the comparison quote. Leave off any personal costs (e.g. hotel stays that are part of your personal travel)
 
 The university will cover your travel costs up to the total cost of the business-only trip you submitted. You can book airfare through the university for personal legs of the trip, and any cost beyond that will be deducted from other reimbursements, or you’ll be asked to pay the university back. You can send updated comparison quotes to [csteam@colorado.edu](mailto:csteam@colorado.edu) if the true costs have changed since you were approved.
 
