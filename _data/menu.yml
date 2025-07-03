@@ -85,6 +85,12 @@
   - name: Guide for Grad Student Insurance
     url: guide_student_insurance
     external: true
+  - name: Graduate Student Pregnancy & Parenting Policy
+    url: https://www.colorado.edu/graduateschool/faculty-staff/policies-procedures/graduate-student-pregnancy-parenting-related-policy
+    external: true
+  - name: Parental Benefits & Leave Resources
+    url: https://www.colorado.edu/graduateschool/services-resources/help-support/parental-benefits
+    external: true
   # - name: Application Feedback Program
   #   url: app-feedback
    
