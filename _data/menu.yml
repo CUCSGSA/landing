@@ -91,6 +91,9 @@
   - name: Parental Benefits & Leave Resources
     url: https://www.colorado.edu/graduateschool/services-resources/help-support/parental-benefits
     external: true
+  - name: Anthem Gold Student Health Insurance Plan (SHIP)
+    url: https://www.colorado.edu/health/cu-gold-ship
+    external: true
   # - name: Application Feedback Program
   #   url: app-feedback
    

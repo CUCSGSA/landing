@@ -65,4 +65,4 @@ Anthem has reasonable travel insurance available via <a href= "https://www.anthe
 
 #### Dependents
 
-We cannot add dependents to our insurance. There has been budding discussion about a campaign for adding dependents to grad worker insurance in the <a href="https://www.ucwcolorado.org/" target="_blank">United Campus Workers Union</a>, and the UCW dental insurance campaign seemed to have worked, so it is possible this could be changed in the future.
+For details about dependents please visit <a href="https://www.colorado.edu/health/cu-gold-ship" target="_blank"> Anthem Gold Student Health Insurance Plan (SHIP) </a>
