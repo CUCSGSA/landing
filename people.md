@@ -12,8 +12,7 @@ Here are some of the people in these roles currently.
 
 ## Department Graduate Committee Student Representatives
 
-The Graduate Committee is charged with a broad range of graduate student affairs, both for Masters and PhD students. This committee reviews all applications for admission to the Masters and Doctoral programs in Computer Science. All problems regarding any proposed changes to both the Master’s program and the Ph.D. program are handled by this Graduate Committee. It is also responsible for defining course content, considering new course offerings, and other issues for the graduate degree programs. There are three student representatives on the Graduate Committee, two PhD students and one Masters student.
-
+The Graduate Committee is charged with a broad range of graduate student affairs, both for Masters and PhD students. This committee reviews all applications for admission to the Masters and Doctoral programs in Computer Science. All problems regarding any proposed changes to both the Master’s program and the Ph.D. program are handled by this Graduate Committee. It is also responsible for defining course content, considering new course offerings, and other issues for the graduate degree programs. There are two student representatives on the Graduate Committee, one PhD student and one Masters student.
 
 
 {::options parse_block_html="true" /}
