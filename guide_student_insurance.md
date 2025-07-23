@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Word-of-mouth guide for Grad Student Insurance
+title: "Grad Student Insurance : Word-of-mouth guide"
 ---
 
 
