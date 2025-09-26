@@ -14,15 +14,17 @@ If you're passionate about professional development and want to make a meaningfu
 
 Meet some of our outstanding coordinators currently driving CS-GPDC forward:
 
-- **Siddharth De** - Coding Workshop/Challenge
-- **Saksham Khatwani** - Coding Workshop/Challenge
-- **Abijith Trichur Ramachandran** - Industry Speaker Series
-- **Gyanig Kumar** - Industry Speaker Series
-- **Rishiraj Paul Chowdhury** - Job Search Workshop
-- **Ramyashree Mummuderlapalli Krishnaiah** - Job Search Workshop
-- **Aayush Gupta** - Peer to Peer Mock Interview
-- **Nishchal Shetty** - Peer to Peer Mock Interview
-- **Varshitha Sathish** - Resume Review
+- **Akash Ramanathan** - Coding Workshop/Challenge
+- **Ved Mulik** - Coding Workshop/Challenge
+- **Aayush Gupta** - Industry Speaker Series
+- **Nickolaus Jackoski** - Industry Speaker Series
+- **Jalynn Nicoly** - Phd Outreach
+- **Teagan Johnson** - Phd Outreach
+- **Uditanshu Tomar** - Industry Visit
+- **Asmita Raina** - Industry Visit
+- **Samhitha Sannidhi** - Women in Tech
+- **Kali Hamilton** - Women in Tech
 - **Ujwal Karippali Chandran** - Resume Review
+- **Sahil Shroff** - Resume Review
 - **Somya Pathak** - Social Media
-- **Sanath Kavatooru** - Social Media
+- **Shikha Shashikant Masurkar** - Social Media
