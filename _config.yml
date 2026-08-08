@@ -14,6 +14,23 @@ description: CS Graduate Student Association at CU website
 # ga: UA-109088240-1
 domain: cucsgsa.github.io/landing/
 
+# GRAD LOUNGE + EVENTS CALENDAR
+# The homepage calendar (see _includes/weekly.html) is an Outlook published
+# calendar covering both general CSGSA events and grad lounge usage.
+#
+# To get embed_url / ics_url: in Outlook Web, go to
+#   Settings > Calendar > Shared calendars > Publish a calendar
+#   Permissions: "Can view all details", Access: anonymous/public
+# Publishing gives you two links -- an HTML one (embed_url) and an ICS one (ics_url).
+#
+# NOTE: form_url and location are still PLACEHOLDERS. The "Book the Grad Lounge"
+# block stays hidden until form_url is real.
+lounge:
+  embed_url: "https://outlook.office365.com/owa/calendar/41cbb5e4a68d4c12b44f8556c4d7f845@colorado.edu/1eb1e77cbf534c86af5862fc6df3083d5070563079175489720/calendar.html"
+  ics_url: "https://outlook.office365.com/owa/calendar/41cbb5e4a68d4c12b44f8556c4d7f845@colorado.edu/1eb1e77cbf534c86af5862fc6df3083d5070563079175489720/calendar.ics"
+  form_url: "https://forms.cloud.microsoft/r/2QeujdmgCG"
+  location: "REPLACE_ME_lounge_room_number"
+
 #youtube plugin for CS-GPDC's youtube page
 #plugins: [jekyll-youtube]
 
