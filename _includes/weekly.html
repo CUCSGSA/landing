@@ -1,3 +1,26 @@
+{% comment %}
+Homepage events calendar.
+
+This is an Outlook published calendar covering both general CSGSA events and
+grad lounge usage; officers maintain it in Outlook. It replaces the Google
+Calendar this site embedded previously. All URLs live in _config.yml under the
+`lounge:` key.
+
+The calendar spans the full width rather than sitting in a side-by-side column:
+Outlook's published view is dense, and a week view in particular needs the
+horizontal room for seven day columns. The event blurbs sit underneath.
+
+Each URL is gated on still containing "REPLACE_ME" so an unconfigured site
+degrades to a visible message rather than a broken iframe or a dead link.
+{% endcomment %}
+{% assign embed_ready = false %}
+{% if site.lounge.embed_url %}{% unless site.lounge.embed_url contains "REPLACE_ME" %}{% assign embed_ready = true %}{% endunless %}{% endif %}
+{% assign ics_ready = false %}
+{% if site.lounge.ics_url %}{% unless site.lounge.ics_url contains "REPLACE_ME" %}{% assign ics_ready = true %}{% endunless %}{% endif %}
+{% assign form_ready = false %}
+{% if site.lounge.form_url %}{% unless site.lounge.form_url contains "REPLACE_ME" %}{% assign form_ready = true %}{% endunless %}{% endif %}
+{% assign location_ready = false %}
+{% if site.lounge.location %}{% unless site.lounge.location contains "REPLACE_ME" %}{% assign location_ready = true %}{% endunless %}{% endif %}
 <section class="weekly">
 	<div class="container">
 		<div class="row">
@@ -10,28 +33,55 @@
 	<div class="container">
 
 		<div class="row">
-			<div class="col-md-7">
-				<div class="responsiveCal">
-<!--					<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FDenver&amp;src=Y3Nnc2FAY29sb3JhZG8uZWR1&amp;src=Y29sb3JhZG8uZWR1XzcxdDZ2MGozbzU1NmxrbGJhdmprMWVjN2NjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=Y29sb3JhZG8uZWR1XzJoa2tzZDJjaWlndmM5M2hwbHVvZHNwb3JvQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;src=b2ZwZjVkdW9haWJ1NGk2a25pa2loMDNlNTdlcHNoN21AaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=c2hmZWE0amo4bHBrbDFzN2Z0ODdrZWU4N2lsdjFqYXFAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23039BE5&amp;color=%233F51B5&amp;color=%23EF6C00&amp;color=%230B8043&amp;color=%23E67C73&amp;color=%238E24AA&amp;showTitle=0" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>-->
-<iframe src="https://calendar.google.com/calendar/embed?
-src=c_d1bea9dea263e80afc01d3bf1eb293cfc67b41f69edd90c431abf25c09557b23@group.calendar.google.com
-&src=en.usa%23holiday@group.v.calendar.google.com
-&ctz=America%2FDenver"
-style="border-width: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
+			<div class="col-md-12">
+			{% if embed_ready %}
+				<div class="loungeCal">
+					<iframe src="{{ site.lounge.embed_url }}" title="CSGSA events and grad lounge calendar" style="border-width: 0" frameborder="0" scrolling="no"></iframe>
 				</div>
-			</div>
-			<div class="col-md-5">
-				<h3>Planning Meetings</h3>
-				<p>Open to all. Come and help us decide what the CSGSA should work on next.</p>
-
-				<h3>Tea Time</h3>
-				<p>Working all the time is hard! Come play games and enjoy light refreshments with other CS graduate students.</p>
-
-				<h3>Bagels and Bytes</h3>
-				<p> A weekly time focused on coffee, writing and productivity (and bagels). Come hang out with other graduate students and get some work done!!</p>
+			{% else %}
+				<p><em>Our events calendar is being set up and will appear here shortly.</em></p>
+			{% endif %}
+			{% if ics_ready %}
+				<p class="cal-subscribe"><a href="{{ site.lounge.ics_url }}">Subscribe to this calendar</a> to see our events in your own calendar app.</p>
+			{% endif %}
 			</div>
 		</div>
+
+		<div class="row">
+			<div class="col-md-4">
+				<h3>Planning Meetings</h3>
+				<p>Open to all. Come and help us decide what the CSGSA should work on next.</p>
+			</div>
+			<div class="col-md-4">
+				<h3>Tea Time</h3>
+				<p>Working all the time is hard! Come play games and enjoy light refreshments with other CS graduate students.</p>
+			</div>
+			<div class="col-md-4">
+				<h3>Bagels and Bytes</h3>
+				<p>A weekly time focused on coffee, writing and productivity (and bagels). Come hang out with other graduate students and get some work done!!</p>
+			</div>
+		</div>
+
+	{% if form_ready %}
+		<div class="row">
+			<div class="col-md-12">
+				<div class="lounge-booking">
+					<h3>Book the Grad Lounge</h3>
+					<p>
+						Want to use the grad lounge{% if location_ready %} ({{ site.lounge.location }}){% endif %} for an event?
+						<a href="{{ site.lounge.form_url }}">Submit a request</a> and one of our officers will
+						get back to you and add it to the calendar.
+					</p>
+					<p class="booking-qr">
+						<a href="{{ site.lounge.form_url }}">
+							<img src="{{ '/assets/img/lounge-booking-qr.svg' | relative_url }}" alt="QR code linking to the grad lounge booking request form" width="160" height="160">
+						</a>
+					</p>
+				</div>
+			</div>
+		</div>
+	{% endif %}
+
 		</div>
 
 	</div>
