@@ -21,7 +21,7 @@ If you're interested in reaching the CSGPDC execs - please send us an email at c
 {%endif%}
 {{person.name}}
 
-Pronouns: {{person.pronouns}}
+{%if person.pronouns%}Pronouns: {{person.pronouns}}{%endif%}
 
 Bio: {{person.bio}}
 </div>
@@ -55,7 +55,7 @@ The chair's responsibilities are to:
 {%endif%}
 {{person.name}}
 
-Pronouns: {{person.pronouns}}
+{%if person.pronouns%}Pronouns: {{person.pronouns}}{%endif%}
 
 Bio: {{person.bio}}
 </div>
@@ -88,7 +88,7 @@ The vice chair's responsibilities are to:
 {%endif%}
 {{person.name}}
 
-Pronouns: {{person.pronouns}}
+{%if person.pronouns%}Pronouns: {{person.pronouns}}{%endif%}
 
 Bio: {{person.bio}}
 </div>
