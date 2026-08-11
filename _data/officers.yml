@@ -1,32 +1,28 @@
 # This populates the Officers page
 
+# AY 2026-27 officers.
+# TODO: replace the anon.jpg placeholders with real headshots, and add a
+# `pronouns:` line for anyone who wants one shown (the Officers page omits the
+# line entirely when it is absent).
 chair:
-    name: Sriranga Ramaswamy
-    contact: srianga.kalkunteramaswamy@
-    photo: assets/img/officers/ranga.JPG
-    pronouns: He/Him/His
-    bio: Sriranga is a PhD student intrested in Cybersecurity. He is a man of many hobbies, woodworking, 3D-Printing, Origami, and many more. He can often be spotted photographing the flatirons or cute little squirrels on campus.
+    name: Stefano Fochesatto
+    photo: assets/img/officers/anon.jpg
+    bio: Stefano is a second-year PhD student from Fairbanks, Alaska, with bachelor's and master's degrees in Mathematics from the University of Alaska Fairbanks. Research interests are in numerics and scientific computing, including constrained differential equations, variational inequalities, and multiphysics problems like fluid-structure interaction. Outside the department, Stefano can be found long-distance running, playing music, or out on science fieldwork.
 
 vice_chair:
-    name: Bashayer Alharbi
-    contact: bashayer.alharbi@
-    photo: assets/img/officers/bashayer.jpg
-    pronouns: She/Her
-    bio: Bashayer is a Ph.D. student in the Computer Systems Lab. Her research interests are in network systems and security. She enjoys hiking for the stunning views, exploring nature, watching TV shows, and reading.
+    name: Maria Valentini
+    photo: assets/img/officers/anon.jpg
+    bio: Maria is a fifth-year PhD student in the Computer Science and Cognitive Science dual degree program. Research focuses on Natural Language Processing, using computational models to understand and enhance early childhood word learning. Originally from northern Minnesota, Maria studied mathematics and computer information systems at the College of St. Scholastica while competing on the collegiate tennis team, and now enjoys music, hockey, and caring for two guinea pigs.
 
 vice_chair2:
-    name: Gyanig Kumar
-    contact: Gyanig.Kumar@
-    photo: assets/img/officers/Gyanig_Kumar.jpeg
-    pronouns: He/Him/His
-    bio: Gyanig is a 2nd Year Research-based Master's student specializing in Computer Vision with Robotics. He enjoys playing the guitar and pursuing photography as hobbies.
- 
+    name: Lucas White
+    photo: assets/img/officers/anon.jpg
+    bio: Lucas is a second-year PhD student in Computer Science advised by Alvaro Velasquez. Research interests are in molecular generation and constrained diffusion, at the intersection of machine learning and scientific discovery.
+
 treasurer:
-    name: Pavan Appanna
-    contact: pavan.appanna@
-    photo: assets/img/officers/pavan.jpg
-    pronouns: He/Him/His
-    bio: Pavan is a research-based Master's student with interests spanning Systems and Computer Vision. He have experience in both industry and academia, and outside of work, he also enjoys hiking and practicing yoga.
+    name: Adarsh Ashokan
+    photo: assets/img/officers/anon.jpg
+    bio: Adarsh is a master's student in Computer Science with research interests in distributed systems, operating systems, storage infrastructure, and high-performance software. Before CU Boulder, Adarsh completed an undergraduate degree at NIT Trichy and worked as a software engineer at Oracle, and has contributed to open-source systems projects through Ceph. Outside of work, Adarsh enjoys quizzing, YouTube, and following Manchester United.
 
 gpdc_chair:
     name: Siddharth De

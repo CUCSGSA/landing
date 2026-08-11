@@ -25,7 +25,7 @@ The Graduate Committee is charged with a broad range of graduate student affairs
 {%endif%}
 {{person.name}}
 
-Pronouns: {{person.pronouns}}
+{%if person.pronouns%}Pronouns: {{person.pronouns}}{%endif%}
 
 Bio: {{person.bio}}
 </div>
@@ -47,7 +47,7 @@ Bio: {{person.bio}}
 {%endif%}
 {{person.name}}
 
-Pronouns: {{person.pronouns}}
+{%if person.pronouns%}Pronouns: {{person.pronouns}}{%endif%}
 
 Bio: {{person.bio}}
 </div>
@@ -71,7 +71,7 @@ The student member of this committee is considered to be the senior student repr
 {%endif%}
 {{person.name}}
 
-Pronouns: {{person.pronouns}}
+{%if person.pronouns%}Pronouns: {{person.pronouns}}{%endif%}
 
 Bio: {{person.bio}}
 </div>
@@ -96,7 +96,7 @@ Tea time is weekly social event with tea, snacks, board games and lots of fun. T
 {%endif%}
 {{person.name}}
 
-Pronouns: {{person.pronouns}}
+{%if person.pronouns%}Pronouns: {{person.pronouns}}{%endif%}
 
 Bio: {{person.bio}}
 </div>
@@ -119,7 +119,7 @@ Bio: {{person.bio}}
 {%endif%}
 {{person.name}}
 {%if person.pronouns%}
-Pronouns: {{person.pronouns}}
+{%if person.pronouns%}Pronouns: {{person.pronouns}}{%endif%}
 {%endif%}
 {%if person.bio%}
 Bio: {{person.bio}}

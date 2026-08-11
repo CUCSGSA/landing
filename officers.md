@@ -19,7 +19,7 @@ If you're interested in reaching the CSGSA board or someone on one of the commit
 {%endif%}
 {{person.name}}
 
-Pronouns: {{person.pronouns}}
+{%if person.pronouns%}Pronouns: {{person.pronouns}}{%endif%}
 
 Bio: {{person.bio}}
 </div>
@@ -52,7 +52,7 @@ The chair's responsibilities are to:
 {% endif %}
 {{ person.name }}
 
-Pronouns: {{ person.pronouns }}
+{% if person.pronouns %}Pronouns: {{ person.pronouns }}{% endif %}
 
 Bio: {{ person.bio }}
 </div>
@@ -67,7 +67,7 @@ Bio: {{ person.bio }}
 {% endif %}
 {{ person.name }}
 
-Pronouns: {{ person.pronouns }}
+{% if person.pronouns %}Pronouns: {{ person.pronouns }}{% endif %}
 
 Bio: {{ person.bio }}
 </div>
@@ -105,7 +105,7 @@ The vice chair's responsibilities are to:
 {%endif%}
 {{person.name}}
 
-Pronouns: {{person.pronouns}}
+{%if person.pronouns%}Pronouns: {{person.pronouns}}{%endif%}
 
 Bio: {{person.bio}}
 </div>
@@ -151,6 +151,14 @@ We're sad to see you go! Thanks for all your help.
     <li>{{ person.years }} &raquo; {{ person.name }}</li>
   {% endfor %}
 </ul> -->
+
+
+## Fall 2025, Spring 2026
+
+* Chair - Sriranga Ramaswamy
+* Vice Chair - Bashayer Alharbi
+* Vice Chair - Gyanig Kumar
+* Treasurer - Pavan Appanna
 
 
 ## Fall 2024, Spring 2025
