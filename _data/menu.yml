@@ -72,6 +72,9 @@
     url: concerns
   - name: Moving to Boulder
     url: moving
+  - name: Outdoor Access at CU Boulder
+    url: /assets/pdf/Outdoor-Access-at-CU-Boulder.pdf
+    external: true
   - name: Grad Student Jobs
     url: https://www.colorado.edu/cs/jobs
     external: true
