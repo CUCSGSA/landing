@@ -5,7 +5,7 @@ logo_type: alternate
 
 
 
-<img src="assets/img/team-group.jpeg" alt="2025 group" width="100%">
+<img src="assets/img/team-group-ay2627.jpg" alt="CSGSA leadership committee of AY 26-27" width="100%">
 
 
 # Who are we?

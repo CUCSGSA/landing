@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="assets/img/team-group.jpeg" alt="2025 group" width="100%">
+<img src="assets/img/team-group-ay2627.jpg" alt="CSGSA leadership committee of AY 26-27" width="100%">
 
 # Who are we?
 The Computer Science Graduate Students Association (CSGSA) at the University of Colorado Boulder is a vibrant community spearheaded by and for computer science graduate students. Our mission is to **foster community** among graduate students within the Department of Computer Science and its affiliated departments/institutes. CSGSA is fundamentally a student-led body that thrives on the dedication and involvement of its members. The success of our initiatives and activities is a direct result of the passionate efforts of student leaders, representatives, and volunteers who tirelessly work to represent and support their peers.
