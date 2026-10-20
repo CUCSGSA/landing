@@ -23,26 +23,21 @@ treasurer:
     photo: assets/img/officers/adarsh_ashokan.jpg
     bio: Adarsh is a master's student in Computer Science with research interests in distributed systems, operating systems, storage infrastructure, and high-performance software. Before CU Boulder, Adarsh completed an undergraduate degree at NIT Trichy and worked as a software engineer at Oracle, and has contributed to open-source systems projects through Ceph. Outside of work, Adarsh enjoys quizzing, YouTube, and following Manchester United.
 
+# CS-GPDC officers, AY 2026-27.
 gpdc_chair:
-    name: Siddharth De
-    contact: siddharth.de@
-    photo: assets/img/officers/siddharth.jpeg
-    pronouns: He/Him/His
-    bio: Siddharth is a 2nd year MS-CSEN student. His research interests lie in Computer Vision and Robotics. In his free time, he enjoys doing puzzles especially the daily NYT games.
+    name: Ved Sanjay Mulik
+    photo: assets/img/officers/ved_mulik.jpg
+    bio: Ved is a master's student in the MSCPS program (2025-27). Before CU Boulder, Ved completed a bachelor's degree in India, working as a research assistant and building machine learning projects, and is currently interning at Amazon on large-scale software systems. Ved hopes to build a career in AI and machine learning, and outside of academics enjoys learning new technologies, meeting new people, and helping others.
 
 gpdc_vice_chair:
-    name: Saksham Khatwani
-    contact: saksham.khatwani@
-    photo: assets/img/officers/saksham_khatwani.jpeg
-    pronouns: He/Him/His
-    bio: Saksham is a research student passionate about contributing to the department and fostering professional growth alongside peers. He works on various NLP research projects, including those focused on low-resource languages and semantic text representations. Outside of academics, he enjoys cooking, often with a food documentary playing in the background.
+    name: Ishneet Kaur Chadha
+    photo: assets/img/officers/ishneet_chadha.jpg
+    bio: Ishneet is a second-year master's student in Computer Science (expected 2027) and a current SWE intern who can't stop building things, whether side projects, hackathons, or whatever new idea won't go away. You'll often find Ishneet hunting for a study spot in the Engineering Center lobby or in the audience at a research talk. Ishneet's advice is to just start building, even before you feel ready.
 
 gpdc_treasurer:
-    name: Ankur Varma
-    contact: ankur.varma@
-    photo: assets/img/officers/ankur_varma.jpg
-    pronouns: He/Him/His
-    bio: Ankur Varma is a second year CSEN-MS student who is excited about studying reachablity analysis for Cyber Physical systems. In his free time he likes doing calisthenics workouts.
+    name: Jayanth Sibbala
+    photo: assets/img/officers/jayanth_sibbala.jpg
+    bio: Jayanth is a second-year MSCS (Research) student who spent three years as a data engineer before CU Boulder. Jayanth loves working with data, is passionate about the intersection of cognitive science and machine learning, and plans to become a data scientist.
 
 grad_comm:
     - name: Neelima Prasad

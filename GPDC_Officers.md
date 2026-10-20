@@ -112,6 +112,12 @@ The treasurer's responsibilities are to:
 
 We're sad to see you go! Thanks for all your help.
 
+## Fall 2025, Spring 2026
+
+* Chair - Siddharth De
+* Vice Chair - Saksham Khatwani
+* Treasurer - Ankur Varma
+
 ## Fall 2024, Spring 2025
 
 * Chair - Anirudh Maiya
